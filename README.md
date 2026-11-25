@@ -4,4 +4,4 @@ The SRAM IS62WV51216 control module offers advanced diagnostic capabilities and 
 
 Модуль управления SRAM IS62WV51216 предлагает расширенные возможности диагностики и гибкую систему настройки, в отличие от стандартной библиотеки HAL SRAM.
 
-
+![Uploading image.png…]()
